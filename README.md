@@ -12,4 +12,9 @@ The MNIST datasets are images of the handwritten digits, using GAN we will be ab
 * Numpy
 * Matplotlib
 
+  - To install the dependencies
+
+  - `conda create --name myEnv --file requirements.txt`
+
+  - `conda activate myEnv`
 
